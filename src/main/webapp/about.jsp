@@ -1,7 +1,7 @@
 <%-- 
     Document   : about
     Created on : 4 Dec 2024, 8:20:21 pm
-    Author     : Nalinish Ranjan
+    Author     : Anurag Singh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Viridi - About</title>
+        <title>GuviWeb - About</title>
         <%@include file="components/common_css_js.jsp" %>
     </head>
     <body>

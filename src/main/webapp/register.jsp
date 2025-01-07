@@ -1,7 +1,7 @@
 <%-- 
     Document   : register
     Created on : 4 Dec 2024, 11:08:23 pm
-    Author     : Nalinish Ranjan
+    Author     : Anurag Singh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
